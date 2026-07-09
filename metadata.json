@@ -1,6 +1,0 @@
-{
-  "name": "Yashas K - Portfolio",
-  "description": "Interactive developer portfolio for Yashas K, an aspiring Android Developer and Generative AI enthusiast, featuring live interactive app simulations and an AI resume chatbot.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
